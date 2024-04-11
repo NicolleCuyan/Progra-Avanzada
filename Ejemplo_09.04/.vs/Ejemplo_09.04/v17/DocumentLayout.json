@@ -1,0 +1,89 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Lista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|solutionrelative:Ejemplo_09.04\\Lista.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Lista.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|solutionrelative:Ejemplo_09.04\\Lista.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|solutionrelative:Ejemplo_09.04\\Nodo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Ejemplo_09.04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A4DE93C8-BD47-4940-9CBF-331B6E3AE2B0}|Ejemplo_09.04\\Ejemplo_09.04.vcxproj|solutionrelative:Ejemplo_09.04\\Ejemplo_09.04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lista.cpp",
+              "DocumentMoniker": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Lista.cpp",
+              "RelativeDocumentMoniker": "Ejemplo_09.04\\Lista.cpp",
+              "ToolTip": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Lista.cpp",
+              "RelativeToolTip": "Ejemplo_09.04\\Lista.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T18:12:27.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Nodo.h",
+              "DocumentMoniker": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Nodo.h",
+              "RelativeDocumentMoniker": "Ejemplo_09.04\\Nodo.h",
+              "ToolTip": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Nodo.h",
+              "RelativeToolTip": "Ejemplo_09.04\\Nodo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T18:03:40.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lista.h",
+              "DocumentMoniker": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Lista.h",
+              "RelativeDocumentMoniker": "Ejemplo_09.04\\Lista.h",
+              "ToolTip": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Lista.h",
+              "RelativeToolTip": "Ejemplo_09.04\\Lista.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-04-09T17:57:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ejemplo_09.04.cpp",
+              "DocumentMoniker": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Ejemplo_09.04.cpp",
+              "RelativeDocumentMoniker": "Ejemplo_09.04\\Ejemplo_09.04.cpp",
+              "ToolTip": "C:\\Users\\cuyan\\OneDrive\\Documentos\\Universidad\\Progra Avanzada\\I Semestre 2024\\Teoria\\Ejemplo_09.04\\Ejemplo_09.04\\Ejemplo_09.04.cpp",
+              "RelativeToolTip": "Ejemplo_09.04\\Ejemplo_09.04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-09T17:55:55.196Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
